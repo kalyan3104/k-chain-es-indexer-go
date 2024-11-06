@@ -1,0 +1,14 @@
+{
+  "identifier": "NON-abcd-02",
+  "token": "NON-abcd",
+  "type": "NonFungibleDCDT",
+  "nonce": 2,
+  "timestamp": 5600,
+  "data": {
+    "creator": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+    "nonEmptyURIs": false,
+    "whiteListedStorage": false
+  },
+  "currentOwner":"moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+  "numDecimals": 0
+}

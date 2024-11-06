@@ -1,0 +1,45 @@
+{
+  "receiversShardIDs": [
+    1,
+    1
+  ],
+  "data": "TXVsdGlFU0RUTkZUVHJhbnNmZXJAMDAwMDAwMDAwMDAwMDAwMDA1MDA1ZWJlYjM1MTVjYjQyMDU2YTgxZDQyYWRhZjc1NmEzZjYzYTM2MGJmYjA1NUAwMkA1NzQ1NDc0YzQ0MmQ2MjY0MzQ2NDM3MzlAQDM4ZTYyMDQ2ZmIxYTAwMDBANTg0ZDQ1NTgyZDY2NjQ2MTMzMzUzNUAwN0AwNDg5MDdlNTgyODRjMjhlODk4ZTI5QDYxNjQ2NDRjNjk3MTc1Njk2NDY5NzQ3OTUwNzI2Zjc4NzlAMDAwMDAwMDAwMDAwMDAwMDA1MDBlYmQzMDRjMmYzNGE2YjNmNmE1N2MxMzNhYjdiOGM2ZjgxZGM0MDE1NTQ4M0AzOGQ3OGY1OTU3ODVjMDAwQDA0ODdkZWFjMzEzYzZmNmIxMTE5MDY=",
+  "signature": "",
+  "fee": "1904415000000000",
+  "feeNum": 0.001904415,
+  "dcdtValues": [
+    "4100000000000000000",
+    "5482813151746926867746345"
+  ],
+  "dcdtValuesNum": [
+    4.1,
+    5.482813151746927e+06
+  ],
+  "initialPaidFee": "1904415000000000",
+  "gasLimit": 150000000,
+  "gasUsed": 150000000,
+  "miniBlockHash": "71a5272ba7198b74f8a59cb9db4a270d2cfb1a7aefacbe17a27d1aa6f0d60b57",
+  "receivers": [
+    "moa1qqqqqqqqqqqqqpgqt6ltx52ukss9d2qag2k67at28a36xc9lkp2swhu7e9",
+    "moa1qqqqqqqqqqqqqpgqt6ltx52ukss9d2qag2k67at28a36xc9lkp2swhu7e9"
+  ],
+  "function": "addLiquidityProxy",
+  "senderShard": 0,
+  "tokens": [
+    "WREWA-bd4d79",
+    "XMEX-fda355-07"
+  ],
+  "value": "0",
+  "valueNum": 0,
+  "gasPrice": 1000000000,
+  "timestamp": 5040,
+  "receiver": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+  "nonce": 79,
+  "round": 50,
+  "hasScResults": true,
+  "sender": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+  "receiverShard": 0,
+  "operation": "MultiDCDTNFTTransfer",
+  "status": "success",
+  "searchOrder": 0
+}

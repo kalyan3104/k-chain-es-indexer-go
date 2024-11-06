@@ -1,0 +1,17 @@
+{
+  "address": "moa1l29zsl2dqq988kvr2y0xlfv9ydgnvhzkatfd8ccalpag265pje8q7lelre",
+  "balance": "1000",
+  "balanceNum": 1.0E-15,
+  "token": "TTTT-abcd",
+  "identifier": "TTTT-abcd-02",
+  "tokenNonce": 2,
+  "properties": "3032",
+  "data": {
+    "creator": "moa1l29zsl2dqq988kvr2y0xlfv9ydgnvhzkatfd8ccalpag265pje8q7lelre",
+    "nonEmptyURIs": false,
+    "whiteListedStorage": false
+  },
+  "timestamp": 5600,
+  "type": "SemiFungibleDCDT",
+  "shardID": 2
+}

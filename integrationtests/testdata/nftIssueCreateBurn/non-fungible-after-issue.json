@@ -1,0 +1,28 @@
+{
+  "name": "NON-token",
+  "ticker": "NON",
+  "token": "NON-abcd",
+  "issuer": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+  "currentOwner": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+  "type": "NonFungibleDCDT",
+  "timestamp": 5040,
+  "ownersHistory": [
+    {
+      "address": "moa1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qx8wte4",
+      "timestamp": 5040
+    }
+  ],
+  "properties": {
+    "canMint": false,
+    "canBurn": false,
+    "canUpgrade": false,
+    "canTransferNFTCreateRole": false,
+    "canAddSpecialRoles": false,
+    "canPause": false,
+    "canFreeze": false,
+    "canWipe": false,
+    "canChangeOwner": false,
+    "canCreateMultiShard": false
+  },
+  "numDecimals": 0
+}

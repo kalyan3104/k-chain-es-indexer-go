@@ -1,0 +1,13 @@
+{
+  "identifier": "TTTT-abcd-02",
+  "token": "TTTT-abcd",
+  "nonce": 2,
+  "timestamp": 5600,
+  "data": {
+    "creator": "moa1l29zsl2dqq988kvr2y0xlfv9ydgnvhzkatfd8ccalpag265pje8q7lelre",
+    "nonEmptyURIs": false,
+    "whiteListedStorage": false
+  },
+  "type": "SemiFungibleDCDT",
+  "numDecimals": 0
+}

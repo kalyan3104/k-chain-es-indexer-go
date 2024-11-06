@@ -1,0 +1,28 @@
+{
+  "name": "SEMI-token",
+  "ticker": "SEM",
+  "token": "SEMI-abcd",
+  "issuer": "moa1sqy2ywvswp09ef7qwjhv8zwr9kzz3xas6y2ye5nuryaz0wcnfzzs7cfj8p",
+  "currentOwner": "moa1sqy2ywvswp09ef7qwjhv8zwr9kzz3xas6y2ye5nuryaz0wcnfzzs7cfj8p",
+  "type": "SemiFungibleDCDT",
+  "timestamp": 5040,
+  "ownersHistory": [
+    {
+      "address": "moa1sqy2ywvswp09ef7qwjhv8zwr9kzz3xas6y2ye5nuryaz0wcnfzzs7cfj8p",
+      "timestamp": 5040
+    }
+  ],
+  "properties": {
+    "canMint": false,
+    "canBurn": false,
+    "canUpgrade": false,
+    "canTransferNFTCreateRole": false,
+    "canAddSpecialRoles": false,
+    "canPause": false,
+    "canFreeze": false,
+    "canWipe": false,
+    "canChangeOwner": false,
+    "canCreateMultiShard": false
+  },
+  "numDecimals": 0
+}

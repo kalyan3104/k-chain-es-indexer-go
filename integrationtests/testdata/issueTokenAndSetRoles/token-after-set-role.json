@@ -1,0 +1,36 @@
+{
+  "name": "semi-token",
+  "ticker": "SEMI",
+  "token": "TOK-abcd",
+  "issuer": "moa1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq95qwlu",
+  "currentOwner": "moa1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq95qwlu",
+  "type": "SemiFungibleDCDT",
+  "timestamp": 5040,
+  "ownersHistory": [
+    {
+      "address": "moa1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq95qwlu",
+      "timestamp": 5040
+    }
+  ],
+  "roles": {
+    "DCDTRoleNFTCreate": [
+      "moa1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq95qwlu"
+    ],
+    "DCDTRoleNFTBurn": [
+      "moa1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq95qwlu"
+    ]
+  },
+  "properties": {
+    "canMint": false,
+    "canBurn": false,
+    "canUpgrade": true,
+    "canTransferNFTCreateRole": false,
+    "canAddSpecialRoles": false,
+    "canPause": false,
+    "canFreeze": false,
+    "canWipe": false,
+    "canChangeOwner": false,
+    "canCreateMultiShard": false
+  },
+  "numDecimals": 0
+}

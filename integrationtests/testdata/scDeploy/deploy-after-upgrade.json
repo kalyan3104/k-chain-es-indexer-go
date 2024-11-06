@@ -1,0 +1,16 @@
+{
+  "deployTxHash": "6831",
+  "deployer": "moa12m3x8jp6dl027pj5f2nw6ght2cyhhjfrs86cdwsa8xn83r375qfqwk8z6l",
+  "currentOwner": "moa12m3x8jp6dl027pj5f2nw6ght2cyhhjfrs86cdwsa8xn83r375qfqwk8z6l",
+  "initialCodeHash": "Y29kZUhhc2g=",
+  "timestamp": 5040,
+  "upgrades": [
+    {
+      "upgradeTxHash": "6832",
+      "codeHash": "c2Vjb25kQ29kZUhhc2g=",
+      "upgrader": "moa12m3x8jp6dl027pj5f2nw6ght2cyhhjfrs86cdwsa8xn83r375qfqwk8z6l",
+      "timestamp": 6000
+    }
+  ],
+  "owners": []
+}
